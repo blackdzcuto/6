@@ -1,0 +1,61 @@
+{
+    "100032212041503": {
+        "car": [
+            {
+                "machXe": 2,
+                "locNhot": 2,
+                "bugi": 2,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 145
+            }
+        ],
+        "cup": 2
+    },
+    "100049395483074": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100041184706360": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100049206701051": {
+        "car": [],
+        "cup": 0
+    }
+}
